@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!--Remotes-->
+    <remote name="los"            fetch="https://github.com/LineageOS"           revision="lineage-21" />
+    <remote name="mtk"            fetch="https://github.com/xiaomi-mediatek-devs"           revision="lineage-21" />
+
+    <!--Devices Trees-->
+    <project name="android_device_xiaomi_plato"           path="device/xiaomi/plato"       remote="mtk" />
+    <project name="android_device_xiaomi_mt6895-common"     path="device/xiaomi/mt6895-common" remote="mtk" />
+    <project name="android_device_mediatek_sepolicy_vndr"     path="device/mediatek/sepolicy_vndr" remote="mtk" />
+
+    <!--Vendors Tree-->
+    <project name="android_vendor_xiaomi_mt6895-common" path="vendor/xiaomi/mt6895-common" remote="mtk" />
+
+    <!--Kernel Tree-->
+    <project name="android_kernel_xiaomi_mt6895"            path="kernel/xiaomi/mt6895"        remote="mtk" />
+
+    <!--Hardware dependencies-->
+    <project name="android_hardware_xiaomi"                 path="hardware/xiaomi"             remote="mtk" />
+    <project name="android_hardware_mediatek"             path="hardware/mediatek"            remote="mtk" />
+</manifest>
