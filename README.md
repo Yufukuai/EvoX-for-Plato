@@ -5,8 +5,8 @@ Thanks to [The Xiaomi Mediatek Devs](https://github.com/xiaomi-mediatek-devs) th
 Required files   | Source
 -------:|:-------------------------
 Hardware     | [android_hardware_xiaomi](https://github.com/xiaomi-mediatek-devs/android_hardware_xiaomi) <br /> [android_hardware_mediatek](https://github.com/xiaomi-mediatek-devs/android_hardware-mediatek)
-Device Trees | [android_device_xiaomi_plato](https://github.com/Yufukuai/android_device_xiaomi_plato) (fork of plato's device tree) <br /> [android_device_xiaomi_mt6895-common](https://github.com/xiaomi-mediatek-devs/android_vendor_xiaomi_mt6895-common) <br /> [android_device_mediatek_sepolicy_vndr](https://github.com/xiaomi-mediatek-devs/android_device_mediatek_sepolicy_vndr)
-Vendor Trees     | [android_vendor_xiaomi_mt6895-common](https://github.com/xiaomi-mediatek-devs/android_vendor_xiaomi_mt6895-common) <br /> Vendor tree for the device itself was extracted using extract-files.sh (from device trees)
+Device Trees | [android_device_xiaomi_plato](https://github.com/xiaomi-mediatek-devs/android_device_xiaomi_plato) (fork of plato's device tree) <br /> [android_device_xiaomi_mt6895-common](https://github.com/xiaomi-mediatek-devs/android_vendor_xiaomi_mt6895-common) <br /> [android_device_mediatek_sepolicy_vndr](https://github.com/xiaomi-mediatek-devs/android_device_mediatek_sepolicy_vndr)
+Vendor Trees     | [android_vendor_xiaomi_mt6895-common](https://github.com/xiaomi-mediatek-devs/android_vendor_xiaomi_mt6895-common) <br /> Propietary vendor blobs were extracted through the extract-files scripts.
 Kernel Dependencies  | [android_kernel_xiaomi_mt6895](https://github.com/xiaomi-mediatek-devs/android_kernel_xiaomi_mt6895)
 
 ## Device specifications
