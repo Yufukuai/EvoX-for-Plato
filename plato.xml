@@ -2,7 +2,7 @@
 <manifest>
     <!--Remotes-->
     <remote name="los"            fetch="https://github.com/LineageOS"           revision="lineage-21" />
-    <remote name="mtk"            fetch="https://github.com/xiaomi-mediatek-devs"           revision="lineage-21" />
+    <remote name="mtk"            fetch="https://github.com/xiaomi-mediatek-devs"           revision="lineage-22.2" />
 
     <!--Devices Trees-->
     <project name="android_device_xiaomi_plato"           path="device/xiaomi/plato"       remote="mtk" />
