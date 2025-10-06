@@ -1,6 +1,6 @@
 # EvolutionX for the Xiaomi 12T
-### Ever wanted to get out of the boundaries set by the laggy and buggy HyperOS but also have a Pixel phone for cheap? Wait no more, because EvolutionX has arrived for the Xiaomi 12T 'plato'
-Thanks to [The Xiaomi Mediatek Devs](https://github.com/xiaomi-mediatek-devs) this is possible. For this project I used the following parts to compile this build:
+### The unofficial Pixel experience for the Xiaomi 12T
+Thanks to [The Xiaomi Mediatek Devs](https://github.com/xiaomi-mediatek-devs) for their work on this device. This project uses the following repositories maintained by them:
 
 Required files   | Source
 -------:|:-------------------------
