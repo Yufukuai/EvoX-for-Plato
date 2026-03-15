@@ -1,3 +1,6 @@
+# This repo is now archived.
+### Due to lack of time and ability to update further, and of course, to fix certain issues that became difficult to debug and pinpoint the root cause, I have decided to archive this repo. There is other projects such as [xiaomi_plato by archcloudy](https://github.com/archcloudy/xiaomi_plato/), which is more updated than this project, that you can check on. Many thanks to those who have supported this project, and I hope that y'all can keep evolving.
+
 # EvolutionX for the Xiaomi 12T
 ### The unofficial Pixel experience for the Xiaomi 12T
 Thanks to [The Xiaomi Mediatek Devs](https://github.com/xiaomi-mediatek-devs) for their work on this device. This project uses the following repositories maintained by them:
